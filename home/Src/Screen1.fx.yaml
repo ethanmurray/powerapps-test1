@@ -6,7 +6,11 @@ Screen1 As screen:
         ZIndex: =1
 
     TextInput1 As text:
-        Default: ="Text input"
+        Default: ="Knowledge Network"
+        Font: =Font.'Lato Black'
+        Height: =77
+        Size: =40
+        Width: =598
         X: =60
         Y: =60
         ZIndex: =2
